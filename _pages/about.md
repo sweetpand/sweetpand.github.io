@@ -25,3 +25,5 @@ Our tasks are mostly dedicated to solving retail logistic issues tasks like;
 My job actually consists of all lifecycles of our pipeline starting from data acquisition and understanding, collecting, cleaning all of them. The next step is feature engineering, which is included two parts of modeling which are building model and model evaluation. The next step is a deployment part of the model(this part is required a deep understanding of different deployment strategies). Last but not least of my time I'm spending with serving, monitoring, and maintenance of the model.
 
 In practice, the most interesting important part is we build models that classify a given customer as valuable according to the analysis of the digital behavior of the customers. These signals are what is meant by ‘handcrafted features’, and include for our customer demographics, purchase history, returns history, and web and app session logs.
+
+Thank you very much for taking the time to read about me and please feel free to reach out with anything you have in mind!
