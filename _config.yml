@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Zhama Ryskulova"
 description              : &description 
                               | 
-                                Senior Software Engineer @ Unity Technologies
+                                Senior Software Engineer in Machine Learning at Unity Technologies
                                 BA.Software Engineer at AUCA
                                 MS.Statistics at Columbia
 url                      : https://sweetpand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -88,7 +88,7 @@ author:
   avatar           : "profile.jpg"
   bio              : 
                      | 
-                    Senior Software Engineer @ Unity Technologies
+                    Senior Software Engineer in Machine Learning at Unity Technologies
                     BA.Software Engineer at AUCA
                     MS.Statistics at Columbia
                     
