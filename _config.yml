@@ -13,8 +13,8 @@ name                     : &name "Zhama Ryskulova"
 description              : &description 
                               | 
                                 Senior Software Engineer @ Unity Technologies
-                                BA.Software Engineer @ AUCA'18
-                                MS.Statistics @ Columbia
+                                BA.Software Engineer at AUCA
+                                MS.Statistics at Columbia
 url                      : https://sweetpand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zham_rys.github.io"
@@ -89,13 +89,13 @@ author:
   bio              : 
                      | 
                     Senior Software Engineer @ Unity Technologies
-                    BA.Software Engineer @ AUCA'18
-                    MS.Statistics @ Columbia
+                    BA.Software Engineer at AUCA
+                    MS.Statistics at Columbia
                     
   location         : "Dublin, Ireland"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : aijamalryskulova95@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
