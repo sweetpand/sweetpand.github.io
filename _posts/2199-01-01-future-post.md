@@ -19,6 +19,8 @@ Through mentorship and exchange, TechWomen strengthens participants’ professio
 
 The Kyrgyz Republic is one of the country participants of the TechWomen, and each year the program is selected 5-6 women in STEM fields who actively demonstrate pursue in their professional and social sphere. After all selection process the top 100 finalists of the program from 22 countries of participants becoming the Fellows of the TechWomen program and get chance to be interned at tech giant companies in Silicon Valley. I want to point out that the fellows don't have the privilege to choose the company to be interned in, the program has its own algorithm for match the fellows with companies.
 
+![Image](https://github.com/sweetpand/sweetpand.github.io/blob/master/files/52265931_2545845355642084_6945353573836259328_n.jpg)
+
 I was lucky enough to be interned at Head Quarter of [LinkedIn](https://www.linkedin.com/feed/) company under the supervision of Stephany Lucas, Sarah Yu and Swetha Surapaneni.
 
 This was my first visit to Silicon Valley and it was unforgottable life experience.
