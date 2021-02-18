@@ -17,15 +17,20 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* December 2020-Present: Senior Software Engineer in Machine Learning
+  * Unity Technologies
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Location: Dublin, Ireland
+ 
+* Summer 2016: Android Developer
+  * Yandex
+  * Duties included: Tagging issues
+  * Location: Saint Petersburg, Russian Federation
 
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2017: Software Engineer
+  * Zensoft
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Location: Bishkek, Kyrgyz Republic
   
 Skills
 ======
@@ -36,12 +41,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
