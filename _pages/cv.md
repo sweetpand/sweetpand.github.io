@@ -21,25 +21,45 @@ Work experience
   * Unity Technologies
   * Duties included: Tagging issues
   * Location: Dublin, Ireland
+  
+* December 2019-December 2020: Data & Machine Learning Engineer
+  * R&D/MTH
+  * Duties included: Tagging issues
+  * Location: Berlin, Germany
+
+* December 2018-December 2019: Data & Software Engineer
+  * Alem Research
+  * Duties included: Tagging issues
+  * Location: Almaty, Kazakhstan
+
+* September 2018-November 2018: Software Engineer, Internship
+  * LinkedIn
+  * Duties included: Tagging issues
+  * Location: Mountain View, California
+  
+* November 2017-September 2018: Machine Learning Engineer, Internship
+  * ARLOOPA
+  * Duties included: Tagging issues
+  * Location: Oslo, Norway
  
-* Summer 2016: Android Developer
+* Summer 2016: Android Developer, Internship
   * Yandex
   * Duties included: Tagging issues
   * Location: Saint Petersburg, Russian Federation
 
-* Fall 2017: Software Engineer
+* Fall 2017: Software Engineer, Internship
   * Zensoft
   * Duties included: Merging pull requests
   * Location: Bishkek, Kyrgyz Republic
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* TensorFlow
+* Cloud Computing
+  * AWS
+  * GCP
+  * Azure
+* Apache Spark
 
 Talks
 ======
