@@ -35,7 +35,7 @@ Work experience
 | 2018  -     | Software Engineer,Internship    | LinkedIn, Ai expermental team     | training the SOTA face recognition models  |Mountain View, USA  |
 | 2017-2018   | Machine Learning, Internship    | ARLOOPA, ml/dat team              | cleaning and preparing data                |Oslo, Norway        |
 | 2017 -      | Software Engineer, Internship   | Zensoft, backend team             | semantic analysis API for HR platform      |Bishkek, Kyrgyzstan |
-| 2016 - 2016 | Android Engineer,Internship     | Yandex, andoid team               | developing apps for mapping internal CRMs  |Saint-Petersburg, RF| 
+| 2016 - 2016 | Android Engineer,Internship     | Yandex, andoid team               | developing apps for mapping internal CRMs  |Saint Petersburg, RF| 
 
 
 Skills
