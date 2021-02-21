@@ -15,7 +15,7 @@ Personal Data
 ======
 * Email: [ryskulova.zhama@gmail.com](ryskulova.zhama@gmail.com)
 * Webpage: [sweetpand.github.io](https://sweetpand.github.io/)
-* Twitter: [@zham_rys](https://twitter.com/zham_rys)a
+* Twitter: [@zham_rys](https://twitter.com/zham_rys)
 
 Education
 ======
