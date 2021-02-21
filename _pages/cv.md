@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- <embed src="https://alisher-ai.github.io/files/CV_Alisher_Abdulkhaev.pdf" type="application/pdf"/> -->
-
 Personal Data
 ======
 * Email: [ryskulova.zhama@gmail.com](ryskulova.zhama@gmail.com)
@@ -29,14 +27,15 @@ Education
 Work experience
 ======
 
-| Year(s)     | Title                           | Company/Organization              | Duties                                     |
-| ----------- | ------------------------------- | --------------------------        | -----                                      |
-| 2020 -      | Software Engineer in ML         | Unity Technologies                | research                                   |
-| 2019 - 2020 | Board Director & Community Lead | R&D/MTH                           | planning the events, leading the community |
-| 2018 - 2019 |                                 |                                   | giving lectures                            |
-| 2018 - 2020 | Data/Software Engineer          | Machine Learning                  | organizing and holding DL workshops        |
-| 2017 - 2018 | Software Engineer,Internship    | LinkedIn, Ai expermental team     | training the SOTA face recognition models  |
-| 2016 - 2017 | Android Engineer,Internship     | Yandex                            | training deep networks for image retrieval |
+| Year(s)     | Title                           | Company/Organization              | Duties                                     |Locations           |
+| ----------- | ------------------------------- | --------------------------        | -----                                      |---------------     |
+| 2020 -      | Software Engineer in ML         | Unity Technologies                | research and development                   |Dublin, Ireland     |
+| 2019 - 2020 | Data&Machine Learning Engineer  | R&D/MTH                           | training deep networks for image retrieval |Berlin, Germany     |
+| 2018 - 2019 | Data/Software Engineer          | Alem Research,core team           | cleaning data, training and deploying model|Almaty, Qazaqstan   |
+| 2018  -     | Software Engineer,Internship    | LinkedIn, Ai expermental team     | training the SOTA face recognition models  |Mountain View, USA  |
+| 2017-2018   | Machine Learning, Internship    | ARLOOPA, ml/dat team              | cleaning and preparing data                |Oslo, Norway        |
+| 2017 -      | Software Engineer, Internship   | Zensoft, backend team             | semantic analysis API for HR platform      |Bishkek, Kyrgyzstan |
+| 2016 - 2016 | Android Engineer,Internship     | Yandex, andoid team               | developing apps for mapping internal CRMs  |Saint-Petersburg, RF| 
 
 
 Skills
