@@ -23,7 +23,7 @@ Education
   * **Master Thesis**: Coming soon...
 * 2014 - 2018: B.A. in Software Engineering, American University of Central Asia, 2018 (GPA: 3.6/4.0)
   * **Diploma Thesis**: _Logo Detection using TensorFlow Lite and Transfer Learning_ - A brand logo detection system using Tensorflow Object Detection API. The application that can improve brand analytics through logo detection in images. The core of my solution leverages a Deep Convolutional Neural Network developed and trained using Google’s Deep Learning library, TensorFlow. The performance of the proposed method is evaluated over the NCC and PSNR metrics.
- * **Supervisor: Director, Laboratory for Algebraic and Symbolic Computation, Bard College and Associate Professor of Computer Science and Mathematics - [Robert W. McGrail](https://www.bard.edu/academics/faculty/details/?action=details&id=586)
+  **Supervisor: Director, Laboratory for Algebraic and Symbolic Computation, Bard College and Associate Professor of Computer Science and Mathematics - [Robert W. McGrail](https://www.bard.edu/academics/faculty/details/?action=details&id=586)
 
 
 Work experience
@@ -31,7 +31,7 @@ Work experience
 
 | Year(s)     | Title                           | Company/Organization              | Duties                                     |
 | ----------- | ------------------------------- | --------------------------        | -----                                      |
-| 2020 -      | Software Enhineer in ML         | Unity Technologies                | research                                   |
+| 2020 -      | Software Engineer in ML         | Unity Technologies                | research                                   |
 | 2019 - 2020 | Board Director & Community Lead | R&D/MTH                           | planning the events, leading the community |
 | 2018 - 2019 |                                 |                                   | giving lectures                            |
 | 2018 - 2020 | Data/Software Engineer          | Machine Learning                  | organizing and holding DL workshops        |
