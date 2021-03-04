@@ -25,6 +25,7 @@ The Kyrgyz Republic is one of the country participants of the TechWomen, and eac
 I was lucky enough to be interned at Head Quarter of [LinkedIn](https://www.linkedin.com/feed/) company under the supervision of Stephany Lucas, Sarah Yu, and Swetha Surapaneni. My mentors were so kind and highly welcomed me at the company and help me to deep dive into everything during the whole internship. The main thin they did for me is they put the relationship before the mentorship. A They even visited the final wrap-up events in Washington, DC and the also visited Kyrgyz Republic Embassy in Washington with me.
 
 ![](/files/TechWomen2.png)
+* Team Kyrgyz Republic with mentors and the Ambassador of Kyrgyz Republic to the United States Kadyr M. Toktogulov.
 
 This was my first visit to Silicon Valley and it was unforgottable life experience.
 
