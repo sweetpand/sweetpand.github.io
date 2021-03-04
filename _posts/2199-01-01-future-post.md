@@ -29,7 +29,7 @@ I was lucky enough to be interned at Head Quarter of [LinkedIn](https://www.link
 ![](/files/TechWomen5.png)
 ![](/files/TechWomen9.png)
 
-The main thing they did for me is they put the relationship before the mentorship. They even visited the final wrap-up events in Washington, DC and the also visited Kyrgyz Republic Embassy in Washington with me.
+The main thing they did for me is they put the relationship before the mentorship. They even visited the final wrap-up events in Washington, DC and they also visited Kyrgyz Republic Embassy in Washington together with me.
 
 ![](/files/TechWomen2.png)
 * Team Kyrgyz Republic with mentors and the Ambassador of Kyrgyz Republic to the United States Kadyr M. Toktogulov.
@@ -49,7 +49,7 @@ After all teams arrived to the Bay Area, the program will start with amazing eve
 There different group of mentors one of them are cultural mentors who organized many cultural events for our Fellows to explore the Bay Area like visiting Sequoia National Forest, hiking to Yosemite National Park, Santa-Cruz roller coaster, Surfing, Kayaking, Cliffs, NASA's Ames Research Center and etc.
 
 ![](/files/TechWomen6.png)
-* visiting NASA's Ames Research Center
+* NASA's Ames Research Center
 
 This was my first visit to Silicon Valley and it was unforgottable life experience.
 
