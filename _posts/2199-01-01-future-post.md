@@ -24,29 +24,35 @@ As you understand when you were selected by program, [eligibilities you can look
 ![](/files/TechWomen1.png)
 * Team Kyrgyz Republic with mentors and team coches at Google.
 
-I was lucky enough to be interned at Head Quarter of [LinkedIn](https://www.linkedin.com/feed/) company under the supervision of Stephany Lucas, Sarah Yu, and Swetha Surapaneni. My mentors were so kind and highly welcomed me at the company and help me to deep dive into everything during the whole internship. The main thing they did for me is they put the relationship before the mentorship. They even visited the final wrap-up events in Washington, DC and the also visited Kyrgyz Republic Embassy in Washington with me.
+I was lucky enough to be interned at Head Quarter of [LinkedIn](https://www.linkedin.com/feed/) company under the supervision of Stephany Lucas, Sarah Yu, and Swetha Surapaneni. My mentors were so kind and highly welcomed me at the company and help me to deep dive into everything during the whole internship. 
+
+![](/files/TechWomen5.png)
+![](/files/TechWomen9.png)
+
+The main thing they did for me is they put the relationship before the mentorship. They even visited the final wrap-up events in Washington, DC and the also visited Kyrgyz Republic Embassy in Washington with me.
 
 ![](/files/TechWomen2.png)
 * Team Kyrgyz Republic with mentors and the Ambassador of Kyrgyz Republic to the United States Kadyr M. Toktogulov.
 
 
-As many leadership programs as well in TechWomen also have a competition, competition for the best project for your country.  That’s why most of the time you will collaborate with your team from your county and your team coaches with different professional background. Most coaches for your teams are specialized for start-ups, entrepreneurship and intrapreneurship. The goal of the team-work and collaboration with the mentors and coaches  are a seed grant for winners of the best three projects. On final day, all teams from 22-countries will present their projects for the independent jury and they will chose the winners. The seed grant can give that teams to start realizing winners projects in their country.  As TechWomen is a STEM oriented program, most of the projects which initiated by our Fellows are related STEM field. 
+As many leadership programs as well in TechWomen also have a competition, competition for the best project for your country.  That’s why most of the time you will collaborate with your team from your county and your team coaches with different professional background. Most coaches for your teams are specialized for start-ups, entrepreneurship and intrapreneurship. The goal of the team-work and collaboration with the mentors and coaches is to prepare team and project to a Pitch Day to get a seed grant. On Pitch Day, all teams from 22-countries will present their projects for the independent jury and they will chose the winners. The seed grant can give that teams to start realizing winners projects in their countries.  As TechWomen is a STEM and women oriented program, most of the projects which initiated by our Fellows are related to STEM field. 
 
 Highlights of the program
 ------
 
-After all teams arrived to the Bay Area, the program will start with amazing event which is called Cultural Day. At this day all teams will present their country team by showing their culture and traditional things. My forever lovely event! Our team prepared a national dance and we were dressed on national dresses. I was amazing!
+After all teams arrived to the Bay Area, the program will start with amazing event which is called Cultural Day. At this day all teams will present their country team by showing their culture and traditional things. My forever lovely event! Our team prepared a national dance and we were dressed on national dresses. It was amazing!
 
 ![](/files/TechWomen3.png)
  * Cultural Day with my mentor at Autodesk Center 
 
 
-There different group of mentors one of them are cultural mentors who organized many cultural events for our Fellows like visiting Sequoia National Forest and Yosemite National Park hiking, Santa-Cruz roller coaster, Surfing, Kayaking, Cliffs, NASA's Ames Research Center and etc.
+There different group of mentors one of them are cultural mentors who organized many cultural events for our Fellows to explore the Bay Area like visiting Sequoia National Forest, hiking to Yosemite National Park, Santa-Cruz roller coaster, Surfing, Kayaking, Cliffs, NASA's Ames Research Center and etc.
 
 ![](/files/TechWomen6.png)
 * visiting NASA's Ames Research Center
 
 This was my first visit to Silicon Valley and it was unforgottable life experience.
+
 
 ![](files/TechWomen4.png)
 
