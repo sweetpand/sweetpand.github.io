@@ -53,7 +53,8 @@ There different group of mentors one of them are cultural mentors who organized 
 
 This was my first visit to Silicon Valley and it was unforgottable life experience.
 
+![](/files/TechWomen4.png)
 
-![](files/TechWomen4.png)
+
 
 More about [TechWomen](https://www.techwomen.org/)
