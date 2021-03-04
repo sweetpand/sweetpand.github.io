@@ -21,7 +21,7 @@ The Kyrgyz Republic is one of the country participants of the TechWomen, and eac
 As you understand when you selected by program, eligibilities you can look here, the only question that you should worry is ‘what you want to learn/get from this program?’ and highlight your personal and professional takeaways.
 
 ![](/files/TechWomen1.png)
-* Team Kyrgyz Republic with mentors and team coches.
+* Team Kyrgyz Republic with mentors and team coches at Google.
 
 I was lucky enough to be interned at Head Quarter of [LinkedIn](https://www.linkedin.com/feed/) company under the supervision of Stephany Lucas, Sarah Yu, and Swetha Surapaneni. My mentors were so kind and highly welcomed me at the company and help me to deep dive into everything during the whole internship. The main thing they did for me is they put the relationship before the mentorship. They even visited the final wrap-up events in Washington, DC and the also visited Kyrgyz Republic Embassy in Washington with me.
 
