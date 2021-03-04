@@ -35,15 +35,15 @@ The main thing they did for me is they put the relationship before the mentorshi
 * Team Kyrgyz Republic with mentors and the Ambassador of Kyrgyz Republic to the United States Kadyr M. Toktogulov.
 
 
-As many leadership programs as well in TechWomen also have a competition, competition for the best project for your country.  That’s why most of the time you will collaborate with your team from your county and your team coaches with different professional background. Most coaches for your teams are specialized for start-ups, entrepreneurship and intrapreneurship. The goal of the team-work and collaboration with the mentors and coaches is to prepare team and project to a Pitch Day to get a seed grant. On Pitch Day, all teams from 22-countries will present their projects for the independent jury and they will chose the winners. The seed grant can give that teams to start realizing winners projects in their countries.  As TechWomen is a STEM and women oriented program, most of the projects which initiated by our Fellows are related to STEM field. 
+As many leadership programs as well in TechWomen also have a competition, competition for the best project for your country.  That’s why most of the time you will collaborate with your team from your county and your team coaches with different professional background. Most coaches for your teams are specialized for start-ups, entrepreneurship and intrapreneurship. The goal of the team-work, brainstorming, moving through iteration and strategy, and concluding in the creation of high-impact plans and close collaboration with the mentors and coaches is to prepare team and project to a Pitch Day to get a seed grant. On Pitch Day, all teams from 22-countries will present their projects for the independent jury and they will chose the winners. Each team presented their pitch, speaking about their country’s critical needs and showing how their project will contribute to solving them. The seed grant can give that teams to start realizing winners projects in their countries. As TechWomen is a STEM and women oriented program, most of the projects which initiated by our Emerging Leaders are related to STEM field. 
 
 Highlights of the program
 ------
 
-After all teams arrived to the Bay Area, the program will start with amazing event which is called Cultural Day. At this day all teams will present their country team by showing their culture and traditional things. My forever lovely event! Our team prepared a national dance and we were dressed on national dresses. It was amazing!
+After all teams arrived to the Bay Area, the program will start with amazing event which is called Cultural Kickoff. Emerging Leaders literally got the star treatment the following evening at Juniper Networks.  Arriving in traditional dress for the much-anticipated Cultural Kickoff, we were greeted by a red carpet, “paparazzi” and personalized stars on a walk of fame. Country teams had been preparing for weeks: the event was an opportunity to showcase their countries, with each team preparing dances, presentations and videos transporting the audience and introducing them to their customs and cultures. I was also able to meet my mentors for the first time, this was really one of the best days in my life. 
 
 ![](/files/TechWomen3.png)
- * Cultural Day with my mentor at Autodesk Center 
+ * Cultural Day with my mentor at Juniper Networks
 
 
 There different group of mentors one of them are cultural mentors who organized many cultural events for our Fellows to explore the Bay Area like visiting Sequoia National Forest, hiking to Yosemite National Park, Santa-Cruz roller coaster, Surfing, Kayaking, Cliffs, NASA's Ames Research Center and etc.
@@ -51,10 +51,15 @@ There different group of mentors one of them are cultural mentors who organized 
 ![](/files/TechWomen6.png)
 * NASA's Ames Research Center
 
-This was my first visit to Silicon Valley and it was unforgottable life experience.
+
+
+“When our experiences transcend borders, it opens minds.” – Jillian Scott, IIE
+------
+
+Coming together to discuss our professional mentorship, action plans and the cultural activities we are enjoy in the Bay Area during the program.
 
 ![](/files/TechWomen4.png)
 
-
+This was my first visit to Silicon Valley and it was unforgottable life experience.
 
 More about [TechWomen](https://www.techwomen.org/)
