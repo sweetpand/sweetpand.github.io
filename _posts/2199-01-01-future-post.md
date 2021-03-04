@@ -17,11 +17,14 @@ TechWomen empowers, connects and supports the next generation of women leaders i
 
 Through mentorship and exchange, TechWomen strengthens participants’ professional capacity, increases mutual understanding between key networks of professionals, and expands girls’ interest in STEM careers by exposing them to female role models.
 
-The Kyrgyz Republic is one of the country participants of the TechWomen, and each year the program is selected 5-6 women in STEM fields who actively demonstrate pursue in their professional and social sphere. After all selection process the top 100 finalists of the program from 22 countries of participants becoming the Fellows of the TechWomen program and get chance to be interned at tech giant companies in Silicon Valley. I want to point out that the fellows don't have the privilege to choose the company to be interned in, the program has its own algorithm for match the fellows with companies.
+The Kyrgyz Republic is one of the country participants of the TechWomen, and each year the program is selected 5-6 women in STEM fields who actively demonstrate pursue in their professional and social sphere. After all selection process the top 100 finalists of the program from 22 countries of participants becoming the Fellows of the TechWomen program and get a chance to be interned at tech giant companies in Silicon Valley. I want to point out that the fellows don't have the privilege to choose the company to be interned in, the program has its own algorithm for match the fellows with companies basing on the surveys you fill in and what sphere you are interested in mostly.
 
 ![](/files/TechWomen1.png)
+* Team Kyrgyz Republic with mentors and team coches.
 
 I was lucky enough to be interned at Head Quarter of [LinkedIn](https://www.linkedin.com/feed/) company under the supervision of Stephany Lucas, Sarah Yu, and Swetha Surapaneni. My mentors were so kind and highly welcomed me at the company and help me to deep dive into everything during the whole internship. The main thin they did for me is they put the relationship before the mentorship. A They even visited the final wrap-up events in Washington, DC and the also visited Kyrgyz Republic Embassy in Washington with me.
+
+![](/files/TechWomen2.png)
 
 This was my first visit to Silicon Valley and it was unforgottable life experience.
 
