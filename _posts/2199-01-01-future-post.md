@@ -10,6 +10,7 @@ tags:
 ---
 
 What is TechWomen?
+------
 
 TechWomen is an Initiative of the U.S. Department of State's Bureau of Education and Cultural Affairs.
 
@@ -31,7 +32,8 @@ I was lucky enough to be interned at Head Quarter of [LinkedIn](https://www.link
 
 As many leadership programs as well in TechWomen also have a competition, competition for the best project for your country.  That’s why most of the time you will collaborate with your team from your county and your team coaches with different professional background. Most coaches for your teams are specialized for start-ups, entrepreneurship and intrapreneurship. The goal of the team-work and collaboration with the mentors and coaches  are a seed grant for winners of the best three projects. On final day, all teams from 22-countries will present their projects for the independent jury and they will chose the winners. The seed grant can give that teams to start realizing winners projects in their country.  As TechWomen is a STEM oriented program, most of the projects which initiated by our Fellows are related STEM field. 
 
------Highlights of the program
+Highlights of the program
+------
 
 After all teams arrived to the Bay Area, the program will start with amazing event which is called Cultural Day. At this day all teams will present their country team by showing their culture and traditional things. My forever lovely event! Our team prepared a national dance and we were dressed on national dresses. I was amazing!
 
