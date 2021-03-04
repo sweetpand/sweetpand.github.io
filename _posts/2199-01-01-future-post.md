@@ -39,9 +39,10 @@ After all teams arrived to the Bay Area, the program will start with amazing eve
  * Cultural Day with my mentor at Autodesk Center 
 
 
-There different group of mentors one of them are cultural mentors who organized many cultural events for our Fellows like visiting Sequoia National Forest and Yosemite National Park hiking, Santa-Cruz roller coaster, Surfing, Kayaking, Cliffs, NASA Space Center and etc.
+There different group of mentors one of them are cultural mentors who organized many cultural events for our Fellows like visiting Sequoia National Forest and Yosemite National Park hiking, Santa-Cruz roller coaster, Surfing, Kayaking, Cliffs, NASA's Ames Research Center and etc.
 
 ![](/files/TechWomen6.png)
+* visiting NASA's Ames Research Center
 
 This was my first visit to Silicon Valley and it was unforgottable life experience.
 
