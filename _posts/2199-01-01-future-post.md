@@ -19,7 +19,7 @@ TechWomen empowers, connects and supports the next generation of women leaders i
 Through mentorship and exchange, TechWomen strengthens participants’ professional capacity, increases mutual understanding between key networks of professionals, and expands girls’ interest in STEM careers by exposing them to female role models.
 
 The Kyrgyz Republic is one of the country participants of the TechWomen, and each year the program is selected 5-6 women in STEM fields who actively demonstrate pursue in their professional and social sphere. After all selection process the top 100 finalists of the program from 22 countries of participants becoming the Fellows of the TechWomen program and get a chance to be interned at tech giant companies in Silicon Valley. I want to point out that the fellows don't have the privilege to choose the company to be interned in, the program has its own algorithm for match the fellows with companies basing on the surveys you fill in and what sphere you are interested in mostly. Before heading to Silicon Valley, the program will solve and cover a bunch of logistic and any other program-related issues, starting from your food preferences and ending your visa issues. 
-As you understand when you selected by program, eligibilities you can look here, the only question that you should worry is ‘what you want to learn/get from this program?’ and highlight your personal and professional takeaways.
+As you understand when you were selected by program, [eligibilities you can look here](https://www.techwomen.org/participants/eligibility-and-application), the only question that you should worry is ‘what you want to learn/get from this program?’ and highlight your personal and professional takeaways.
 
 ![](/files/TechWomen1.png)
 * Team Kyrgyz Republic with mentors and team coches at Google.
@@ -48,6 +48,6 @@ There different group of mentors one of them are cultural mentors who organized 
 
 This was my first visit to Silicon Valley and it was unforgottable life experience.
 
-
+![](files/TechWomen4.png)
 
 More about [TechWomen](https://www.techwomen.org/)
