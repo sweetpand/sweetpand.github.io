@@ -1,6 +1,6 @@
 ---
 title: 'TechWomen #waytosiliconvalley'
-date: 2018-09-01
+date: 2021-09-02
 permalink: /posts/2018/09/blog-post-4/
 tags:
   - STEM
