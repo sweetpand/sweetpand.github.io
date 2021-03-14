@@ -63,6 +63,6 @@ Coming together to discuss our professional mentorship, action plans, and the cu
 
 ![](/files/TechWomen4.png)
 
-This was my first visit to Silicon Valley and very fortunate to make it with the TechWomen program. For me, TechWomen 2018 was a life-changing journey. At the beginning of the program, I was so excited and didn't know each other. By the end of the program, I had connected with more than 150 wonderful women, taken more than 3,000 photos, and treasured every encounter I had.  I am so proud of all the TechWomen alumnae, and I’m grateful to be one of them now.
+This was my first visit to Silicon Valley and very fortunate to make it with the TechWomen program. For me, TechWomen 2018 was a life-changing journey. At the beginning of the program, I was so excited and didn't know no one. By the end of the program, I had connected with more than 150 wonderful women, taken more than 3,000 photos, and treasured every encounter I had.  I am so proud of all the TechWomen alumnae, and I’m grateful to be one of them now.
 
 More about [TechWomen](https://www.techwomen.org/)
