@@ -52,6 +52,21 @@ Skills
 | metric learning          | Cassandar|                         |
 | semi-supervised learning |          |                         |
 | facial recognition       |          |                         |
+
+Certificates
+======
+* Machine Learning by Stanford University on Coursera (grade: 97%)
+* NLP with Classification and Vector Spaces on Coursera (grade: 91%)
+
+Awards
+======
+
+| Year(s)     | Award                                       | Organizer            | City & Country      |
+| ----------- | --------------------------------------------| -------------------- | ------------------- |
+| 2020        | Facebook AI Residency                       | Facebook             | London, UK          |
+| 2020        | Uber AI Lab Residency                       | Uber                 | San-Francisco, USA  |
+| 2018        | TechWomen Fellowship                        | U.S. Department of State’s Bureau of Education and Cultural Affairs| San-Francisco, USA  |
+
   
   
 Projects
