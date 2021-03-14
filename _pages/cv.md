@@ -66,6 +66,7 @@ Awards
 | 2020        | Facebook AI Residency                       | Facebook             | London, UK          |
 | 2020        | Uber AI Lab Residency                       | Uber                 | San-Francisco, USA  |
 | 2018        | TechWomen Fellowship                        | U.S. Department of State’s Bureau of Education and Cultural Affairs| San-Francisco, USA  |
+| 2017        | DataFest Special Guest                      | DataFest             | Tbilisi, Georgia    |
 
   
   
