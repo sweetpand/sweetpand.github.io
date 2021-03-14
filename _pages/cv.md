@@ -17,7 +17,7 @@ Personal Data
 
 Education
 ======
-* 2023 (expected): M.S. in Statistics/BioStatistics, Columbia University
+* 2022 (expected): M.S. in Statistics/BioStatistics, Columbia University
   * **Master Thesis**: Coming soon!
 * 2014 - 2018: B.A. in Software Engineering, American University of Central Asia, 2018 (GPA: 3.6/4.0)
   * **Diploma Thesis**: _Logo Detection using TensorFlow Lite and Transfer Learning_ - A brand logo detection system using Tensorflow Object Detection API. The application that can improve brand analytics through logo detection in images. The core of my solution leverages a Deep Convolutional Neural Network developed and trained using Google’s Deep Learning library, TensorFlow. The performance of the proposed method is evaluated over the NCC and PSNR metrics.
