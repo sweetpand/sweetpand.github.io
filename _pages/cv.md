@@ -43,8 +43,8 @@ Skills
   
 | Machine Learning         | Software | Languages               |
 | ------------------------ | ---------| ----------------------- |
-| OpenCV                   | Doker    | Qazaq: native speaker   |
-| scikit-learn             | Java     | Kyrgyz: native speaker  |
+| OpenCV                   | Doker    | Kyrgyz: native speaker  |
+| scikit-learn             | Java     | Qazaq: native speaker   |
 | PyTorch                  | AWS      | Turkish: native speaker |
 | Keras                    | Python   | English: advanced       |
 | TensorFlow               | MATLAB   | Russian: advanced       |
