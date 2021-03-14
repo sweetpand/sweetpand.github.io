@@ -1,7 +1,7 @@
 ---
 title: '[TechWomen](https://www.techwomen.org/) #waytosiliconvalley'
 date: 2018-09-01
-permalink: /posts/techwomen/
+permalink: /posts/2018/09/blog-post-4/
 tags:
   - STEM
   - womenInTech
