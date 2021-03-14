@@ -1,5 +1,5 @@
 ---
-title: '[TechWomen](https://www.techwomen.org/) #waytosiliconvalley'
+title: 'TechWomen #waytosiliconvalley'
 date: 2018-09-01
 permalink: /posts/2018/09/blog-post-4/
 tags:
@@ -12,7 +12,7 @@ tags:
   - powerOfMentorship
 ---
 
-What is TechWomen?
+What is [TechWomen](https://www.techwomen.org/)?
 ------
 
 TechWomen is an Initiative of the U.S. Department of State's Bureau of Education and Cultural Affairs.
