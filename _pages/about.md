@@ -22,6 +22,6 @@ I am also dealing with a community-driven pro-bono project supported by UNESCO o
 
 I'm an active member of the global women in the tech community and thrilled to close the gender gap and to help women embrace technology. I passionate about the idea to educate, equip and empower women and girls with the necessary skills and confidence to succeed in STEM career fields.
 
-I also start to journey in the machine learning research field as I'm doing a master's there are a lot of requirements to do researches and now my research interests mainly focus on developing data-efficient deep learning models. I do care about data efficiency because I believe we need to push the current deep learning algorithms towards less data dependency. I think this is important for both robustness (introducing general inductive biases) and applicability in different domains.
+I also start my journey in the machine learning research field as I'm doing a master's there are a lot of requirements to do researches and now my research interests mainly focus on developing data-efficient deep learning models. I do care about data efficiency because I believe we need to push the current deep learning algorithms towards less data dependency. I think this is important for both robustness (introducing general inductive biases) and applicability in different domains.
 
 Thank you very much for taking the time to read about me and please feel free to reach out with anything you have in mind:)!
