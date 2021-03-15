@@ -49,7 +49,7 @@ Skills
 | Keras                    | Python   | English: advanced       |
 | TensorFlow               | MATLAB   | Russian: advanced       |
 | object detection         | Apache   | French: intermediate |
-| metric learning          | Cassandra| Chinese:beginner         |
+| metric learning          | Cassandra| Chinese: beginner         |
 | semi-supervised learning | Kubernetes|                         |
 | facial recognition       | Node JS   |                         |
 | pandas                   | Redis     |                         |
@@ -85,14 +85,6 @@ Awards
 | 2012        | 1st Place in Chess Competition              | Chess Federation Kyrgyzstan | Karakol, Kyrgyzstan| 
 | 2011        | 2nd Place in Chess Competition              | Chess Federation Kyrgyzstan | Karakol, Kyrgyzstan| 
 
-
-  
-  
-Projects
-======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
 Talks
 ======
