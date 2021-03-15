@@ -69,6 +69,7 @@ Certificates
 * Big Data, Genes, and Medicine on Coursera (grade: 85%)
 * Biostatistics in Public Health by Johns Hopkins University on Coursera (grade: 92%)
 * Robotic Drives & Physics: Robotics, learn by building III on Udemy
+* Negotiation Mastery by Harvard University (grade: 99%)
 
 Awards
 ======
