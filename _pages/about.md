@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Zhama Ryskulova, a Software Engineer in Machine Learning mostly working on natural language tasks.
+I’m Zhama Ryskulova, a Software Engineer in Machine Learning mostly working on computer vision tasks.
 
 I have graduated with Software Engineering in my bachelor’s and getting Statistics in my master’s degrees. Since when I was a sophomore I am working in the industry as a Software Engineer. I started my journey as an Android Developer and grow up until the Software Engineer in Machine Learning.
 
