@@ -67,6 +67,11 @@ Awards
 | 2020        | Uber AI Lab Residency                       | Uber                 | San-Francisco, USA  |
 | 2018        | TechWomen Fellowship                        | U.S. Department of State’s Bureau of Education and Cultural Affairs| San-Francisco, USA  |
 | 2017        | DataFest - Special Guest                    | DataFest             | Tbilisi, Georgia    |
+| 2017        | Media Hackathon, The Grand Prix             | Media Agencies, CA   | Bishkek, Kyrgyzstan    |
+| 2015        | 1st Place in Chess Competition              | AUCA                 | Bishkek, Kyrgyzstan| 
+| 2014- 2018  | Full Tuition Scholarship                    | AUCA                 | Bishkek, Kyrgyzstan     |
+| 2012        | 1st Place in Chess Competition              | Chess Federation Kyrgyzstan | Karakol, Kyrgyzstan| 
+| 2011        | 2nd Place in Chess Competition              | Chess Federation Kyrgyzstan | Karakol, Kyrgyzstan| 
 
 
   
