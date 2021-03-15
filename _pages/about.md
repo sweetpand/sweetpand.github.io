@@ -8,22 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I help companies predict results based on incoming data by conducting proper research.
+I’m Zhama Ryskulova, a Software Engineer in Machine Learning mostly working on natural language tasks.
 
-Our team and especially my goal is to make a sense of all the data that we have in our company and mold it into a fashion that is useful for our future tasks to apply machine learning on top of.
+I have graduated with Software Engineering in my bachelor’s and getting Statistics in my master’s degrees. Since when I was a sophomore I am working in the industry as a Software Engineer. I started my journey as an Android Developer and grow up until the Software Engineer in Machine Learning.
 
-In short, delivering algorithmic solutions all the way from the concept level to production.
+My industrial journey started at Yandex, as an intern, where I worked on the different versions of internal mobile applications. Then I interned at Zensoft as both frontend and backend engineer where I have implemented the semantic algorithm for the HR platform. The implemented algorithm was deployed on production and I hope it is still in production. Then I interned at ARLOOPA as a backed and data engineer at the machine learning team I have been worked with both structured and unstructured data and prepare data for machine learning models. Then I was selected for the TechWomen program right after graduation in 2018 and was fortunate to get an internship at HQ of LinkedIn, I was part of the data and AI experimental team.
 
-Our tasks are mostly dedicated to solving retail logistic issues tasks like;
--recommendation/order system
--dynamic pricing
--inventory prediction
--demand forecasting
--customer segmentation/targeting
--product bundling
+Currently, I am working for [Unity](https://unity.com/), a rockstar company in the Game Development industry. At Unity, as a Software Engineer in Machine Learning, I implement various computer vision algorithms to make our image recognition engine more powerful and robust.
 
-My job actually consists of all lifecycles of our pipeline starting from data acquisition and understanding, collecting, cleaning all of them. The next step is feature engineering, which is included two parts of modeling which are building model and model evaluation. The next step is a deployment part of the model(this part is required a deep understanding of different deployment strategies). Last but not least of my time I'm spending with serving, monitoring, and maintenance of the model.
+I am a board member and community lead at HackerSpace Central Asia. We are organizing and hosting hundreds of talks, study sessions, and discussions related to Machine Learning and Computer Science. The hackerSpace is a community of around 3,000 engineers and researchers from all over the world. There are multiple very cool projects initiated by our space. 
 
-In practice, the most interesting important part is we build models that classify a given customer as valuable according to the analysis of the digital behavior of the customers. These signals are what is meant by ‘handcrafted features’, and include for our customer demographics, purchase history, returns history, and web and app session logs.
+Apart from my professional life, I am also dealing with a community-driven pro-bono project supported by UNESCO oriented for Central Asian countries.
+
+I'm an active member of the global women in the tech community and thrilled to close the gender gap and to help women embrace technology. I passionate about the idea to educate, equip and empower women and girls with the necessary skills and confidence to succeed in STEM career fields.
+
+I also start to journey in the machine learning research field as I'm doing a master's degree there are a lot of requirements to do researches and now my research interests mainly focus on developing data-efficient deep learning models. I do care about data efficiency because I believe we need to push the current deep learning algorithms towards less data dependency. I think this is important for both robustness (introducing general inductive biases) and applicability in different domains.
 
 Thank you very much for taking the time to read about me and please feel free to reach out with anything you have in mind!
