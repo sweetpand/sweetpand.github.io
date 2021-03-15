@@ -30,9 +30,9 @@ Work experience
 | Year(s)     | Title                           | Company/Organization              | Duties                                     |Locations           |
 | ----------- | ------------------------------- | --------------------------        | -----                                      |---------------     |
 | 2020        | Software Engineer in ML         | Unity Technologies                | research and development                   |Dublin, Ireland     |
-| 2019 - 2020 | Data&Machine Learning Engineer  | R&D/MTH                           | training deep networks for image retrieval |Berlin, Germany     |
+| 2019 - 2020 | Data&Machine Learning Engineer  | R&D                               | training deep networks for image retrieval |Berlin, Germany     |
 | 2018 - 2019 | Data/Software Engineer          | Alem Research,core team           | cleaning data, training and deploying model|Almaty, Qazaqstan   |
-| 2018        | Software Engineer,Internship    | LinkedIn, Ai expermental team     | training the SOTA face recognition models  |Mountain View, USA  |
+| 2018        | Software Engineer,Internship    | LinkedIn, AI experimental team    | training the SOTA face recognition models  |Mountain View, USA  |
 | 2017-2018   | Machine Learning, Internship    | ARLOOPA, ml/cv  team              | cleaning and preparing data                |Oslo, Norway        |
 | 2017        | Software Engineer, Internship   | Zensoft, backend team             | semantic analysis API for HR platform      |Bishkek, Kyrgyzstan |
 | 2016 - 2016 | Android Engineer,Internship     | Yandex, andoid team               | developing apps for mapping internal CRMs  |Saint Petersburg, RF| 
