@@ -10,7 +10,7 @@ redirect_from:
 
 I’m Zhama Ryskulova, a Software Engineer in Machine Learning mostly working on computer vision tasks.
 
-I have graduated with Software Engineering in my bachelor’s and getting Statistics in my master’s degrees. Since when I was a sophomore I am working in the industry as a Software Engineer. I started my journey as an Android Developer and grow up until the Software Engineer in Machine Learning.
+I have graduated with Software Engineering in my bachelor’s and getting Statistics in my master’s. Since when I was a sophomore I am working in the industry as a Software Engineer. I started my journey as an Android Developer and grow up until the Software Engineer in Machine Learning.
 
 My industrial journey started at [Yandex](https://yandex.com/), as an intern, where I worked on the different versions of internal mobile applications. Then I interned at [Zensoft](https://www.zensoft.io/) as both frontend and backend engineer where I have implemented the semantic algorithm for the HR platform. The implemented algorithm was deployed on production and I hope it is still in production. Then I interned at [ARLOOPA](https://arloopa.com/) as a backed and data engineer at the machine learning team I have been worked with both structured and unstructured data and prepare data for machine learning models. Then I was selected for the [TechWomen](https://www.techwomen.org/) program right after the graduation of my bachelor's in 2018 and I was fortunate to get an internship at HQ of [LinkedIn](https://www.linkedin.com/), I was part of the data and AI experimental team.
 
