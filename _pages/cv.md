@@ -48,15 +48,27 @@ Skills
 | PyTorch                  | AWS      | Turkish: native speaker |
 | Keras                    | Python   | English: advanced       |
 | TensorFlow               | MATLAB   | Russian: advanced       |
-| object detection         | Apache   | French: intermediate    |
-| metric learning          | Cassandar|                         |
-| semi-supervised learning |          |                         |
-| facial recognition       |          |                         |
+| object detection         | Apache   | French: intermediate |
+| metric learning          | Cassandra| Chinese:beginner         |
+| semi-supervised learning | Kubernetes|                         |
+| facial recognition       | Node JS   |                         |
+| pandas                   | Redis     |                         |
+| MatLab                   | Kafka     |                         |
+| spaCy                    | Hadoop     |                         |
+
 
 Certificates
 ======
 * Machine Learning by Stanford University on Coursera (grade: 97%)
 * NLP with Classification and Vector Spaces on Coursera (grade: 91%)
+* How to Win a Data Science Competition: Learn from Top Kagglers on Coursera(grade: 95%)
+* Advanced Machine Learning with TensorFlow on Google Cloud Platform on Coursera(grade: 89%)
+* TensorFlow: Data and Deployment on Coursera(grade: 100%)
+* Reinforcement Learning on Coursera(grade: 90%)
+* Game Theory II: Advanced Applications on Coursera(grade: 100%)
+* Big Data, Genes, and Medicine on Coursera(grade: 85%)
+* Biostatistics in Public Health by Johns Hopkins University on Coursera(grade: 92%)
+* Robotic Drives & Physics: Robotics, learn by building III on Udemy
 
 Awards
 ======
