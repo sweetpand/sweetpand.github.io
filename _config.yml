@@ -11,7 +11,8 @@ title                    : "Zhama's Personal Webpage"
 title_separator          : "-"
 name                     : &name "Zhama Ryskulova"
 description              : &description 
-                              | Research Engineer in Computer Vision and Computer Graphics-Wētā Tools at Unity |
+                              | 
+                                Research Engineer in Computer Vision and Computer Graphics-Wētā Tools at Unity |
                                 
 url                      : https://sweetpand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,7 +86,8 @@ author:
   name             : "Zhama Ryskulova"
   avatar           : "profile.jpg"
   bio              : 
-                     | Research Engineer in Computer Vision and Computer Graphics-Wētā Tools at Unity |
+                     | 
+                       Research Engineer in Computer Vision and Computer Graphics-Wētā Tools at Unity |
                     
   location         : "Dublin, Ireland"
   employer         :
