@@ -12,11 +12,8 @@ title_separator          : "-"
 name                     : &name "Zhama Ryskulova"
 description              : &description 
                               | 
-                                Senior Software Engineer in Machine Learning @Unity Technologies |
-                                BA.Software Engineering @AUCA |
-                                MS.Statistics @Columbia |
-                                Finalist of Uber Lab AI Residency Program 2020 |
-                                Finalist of Facebook AI Residency Program 2020 |
+                                Research Engineer in Computer Vision and Computer Graphics-Wētā Tools at Unity |
+                                
 url                      : https://sweetpand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zham_rys.github.io"
