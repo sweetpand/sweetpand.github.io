@@ -29,7 +29,8 @@ Work experience
 
 | Year(s)     | Title                           | Company/Organization              | Duties                                     |Locations           |
 | ----------- | ------------------------------- | --------------------------        | -----                                      |---------------     |
-| 2020        | Software Engineer in ML         | Unity Technologies                | research and development                   |Dublin, Ireland     |
+| 2023.       | Research Engineer               | Unity- Wētā Tools                 | research and development                   |Dublin, Ireland
+| 2021-2022   | Software Engineer in ML         | Unity                             | research and development                   |Dublin, Ireland     |
 | 2019 - 2020 | Data&Machine Learning Engineer  | R&D                               | training deep networks for image retrieval |Berlin, Germany     |
 | 2018 - 2019 | Data/Software Engineer          | Alem Research,core team           | cleaning data, training and deploying model|Almaty, Qazaqstan   |
 | 2018        | Software Engineer,Internship    | LinkedIn, AI experimental team    | training the SOTA face recognition models  |Mountain View, USA  |
@@ -47,7 +48,7 @@ Skills
 | scikit-learn             | Java     | Qazaq: native speaker   |
 | PyTorch                  | AWS      | Turkish: native speaker |
 | Keras                    | Python   | English: advanced       |
-| TensorFlow               | MATLAB   | Russian: advanced       |
+| TensorFlow               | MATLAB   | Russian: native speaker |
 | object detection         | Apache   | French: intermediate |
 | metric learning          | Cassandra| Chinese: beginner         |
 | semi-supervised learning | Kubernetes|                         |
