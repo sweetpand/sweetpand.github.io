@@ -36,18 +36,6 @@ redirect_from:
 
 
 
-https://user-images.githubusercontent.com/56076483/209968543-e9bd392b-2f27-4206-89ba-4ae1674a8620.mp4
-
-
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
 <div>
