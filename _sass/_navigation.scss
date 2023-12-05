@@ -59,7 +59,7 @@
    ========================================================================== */
 
 .pagination {
-  background-color: #ffffff;
+  background-color: #000000;
   color: #333333;
   @include full();
   @include clearfix();
@@ -180,7 +180,6 @@
   background: #242424;
   position: relative;
   min-width: 250px;
-  background: $background-color;
 
   a {
     color: #cccccc;
@@ -337,7 +336,7 @@
   }
 
   .active {
-    ackground: #3a3a3a;
+    background: #3a3a3a;
     color: #ffffff;
     margin-left: -0.5em;
     padding-left: 0.5em;
@@ -384,7 +383,6 @@
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #fff;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
