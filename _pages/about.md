@@ -25,10 +25,7 @@ redirect_from:
 
 ## Currently working on generative ai projects: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > 
 
-    - Image-to-3D
-    - Mesh-from-Image
-    - Mesh-to-3D
-    - Text-to-Mesh
+
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
