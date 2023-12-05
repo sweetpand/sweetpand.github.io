@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhama's Personal Webpage"
+title                    : "zhama's personal webpage"
 title_separator          : "-"
-name                     : &name "Zhama Ryskulova"
+name                     : &name "zhama"
 description              : &description 
                               | 
-                                Research Engineer in Computer Vision and Computer Graphics-Wētā Tools at Unity |
+                                Machine Learning Research Engineer in Computer Vision and Computer Graphics-Wētā Tools at Unity |
                                 
 url                      : https://sweetpand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
