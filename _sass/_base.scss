@@ -96,6 +96,7 @@ abbr[data-original-title] {
 /* blockquotes */
 
 blockquote {
+  border-left-color: #ffffff;
   margin: 2em 1em 2em 0;
   padding-left: 1em;
   padding-right: 1em;
@@ -251,8 +252,8 @@ figcaption {
     transition: $global-transition;
 
     &:hover {
-      color: #000;
-      border-bottom-color: #000;
+      color: #ffffff;
+      border-bottom-color: #ffffff;
     }
   }
 }
