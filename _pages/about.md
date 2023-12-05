@@ -30,8 +30,6 @@ redirect_from:
     - Mesh-to-3D
     - Text-to-Mesh
 
-https://user-images.githubusercontent.com/56076483/209968543-e9bd392b-2f27-4206-89ba-4ae1674a8620.mp4
-
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
 <div>
