@@ -24,7 +24,10 @@ redirect_from:
 - <img src="https://media2.giphy.com/media/JSw7z3MAipTKM9yudK/giphy.gif?cid=ecf05e470ixbsxupjzd75qjkaa9hly4kdhcy8zmbeszl3z6t&rid=giphy.gif&ct=ts" width="20" > Fun fact: I'm a pro-snowboarder in slopestyle, for more check my ig: @zham.rys <img src="https://media2.giphy.com/media/UtQeBtdj15KHfEnh5B/giphy.gif?cid=ecf05e4790dgzhmcumzs0iqga7q6eecx2reqd48iu2klfywz&rid=giphy.gif&ct=s" width="40" >
 
 ## Currently working on generative ai projects: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > 
-
+  - Image-to-3D
+  - Mesh-from-Image
+  - Mesh-to-3D
+  - Text-to-Mesh
 
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
