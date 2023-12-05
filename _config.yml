@@ -83,11 +83,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhama Ryskulova"
+  name             : "zhama"
   avatar           : "profile.jpg"
   bio              : 
                      | 
-                       Research Engineer in Computer Vision and Computer Graphics-Wētā Tools at Unity
+                       Machine Learning Research Engineer in Computer Vision and Computer Graphics-Wētā Tools at Unity
                     
   location         : "Dublin, Ireland"
   employer         :
