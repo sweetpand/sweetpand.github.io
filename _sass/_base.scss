@@ -8,6 +8,8 @@ html {
 }
 
 body {
+  background-color: #000000;
+  color: #ffffff;
   margin: 0;
   padding: 0;
   padding-bottom: 9em;
@@ -22,6 +24,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
   margin: 2em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
