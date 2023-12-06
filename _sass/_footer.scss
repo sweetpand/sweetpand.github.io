@@ -3,6 +3,8 @@
    ========================================================================== */
 
 .page__footer {
+  background-color: #000000;
+  color: #ffffff;
   @include clearfix;
   float: left;
   margin-left: 0;
@@ -37,7 +39,7 @@
   }
 
   a {
-    color: inherit;
+    color: #ffffff;
     text-decoration: none;
 
     &:hover {
@@ -49,7 +51,7 @@
   .fab,
   .far,
   .fal {
-    color: mix(#fff, $gray, 25%);
+    color: #ffffff;
   }
 }
 
