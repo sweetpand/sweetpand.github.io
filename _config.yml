@@ -89,7 +89,7 @@ author:
                      | 
                        Machine Learning Research Engineer in Computer Vision and Computer Graphics-Wētā Tools at Unity
                     
-  location         : "Dublin, Ireland"
+  # location         : "Dublin, Ireland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
