@@ -19,7 +19,7 @@ redirect_from:
 
 - <img src="https://media1.giphy.com/media/WPnhLk3ItjPVxfePZb/giphy.gif?cid=ecf05e47gravmwfqlrr12zismifus4v7oda0ftvm2xdbk43j&rid=giphy.gif&ct=s" width="30" > Sometimes I can drop something on [Medium](https://medium.com/@zhamaryskulova)
 
-- <img src="https://media3.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif?cid=ecf05e47wi175jmg3h2wsbzu0qa70te80jgqb2sjbsginam8&rid=giphy.gif&ct=s" width="20" > Twitter: [@zham_rys](https://twitter.com/zham_rys)
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJrbm8xMTk5aTBrZGt6bXN4OG40cWkxendmMXEzZGkzMnY4em10diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDGLRKwIMVXV5XLieP/giphy.gif" width="20" > : [@_zhama](https://twitter.com/_zhama)
 
 - <img src="https://media2.giphy.com/media/JSw7z3MAipTKM9yudK/giphy.gif?cid=ecf05e470ixbsxupjzd75qjkaa9hly4kdhcy8zmbeszl3z6t&rid=giphy.gif&ct=ts" width="20" > Fun fact: I'm a pro-snowboarder in slopestyle, for more check my ig: @zham.rys <img src="https://media2.giphy.com/media/UtQeBtdj15KHfEnh5B/giphy.gif?cid=ecf05e4790dgzhmcumzs0iqga7q6eecx2reqd48iu2klfywz&rid=giphy.gif&ct=s" width="40" >
 
